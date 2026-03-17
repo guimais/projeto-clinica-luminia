@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-Este projeto representa minha abordagem para criar uma landing page profissional para uma clínica médica. O objetivo foi desenvolver uma página que transmita **confiança, sofisticação e acolhimento** — valores essenciais no setor da saúde — sem abrir mão de uma experiência de usuário moderna e responsiva.
+Este projeto representa minha abordagem para criar uma landing page profissional para uma clínica médica. O objetivo foi desenvolver uma página que transmita **confiança, sofisticação e acolhimento**, valores essenciais no setor da saúde, sem abrir mão de uma experiência de usuário moderna e responsiva.
 
 A **Clínica Luminia** é um nome fictício criado exclusivamente para fins de demonstração.
 
