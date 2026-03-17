@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Clínica Luminia",
+  "description": "Clínica médica especializada em cuidado preventivo e tratamentos modernos.",
+  "url": "https://clinicaluminia.com.br",
+  "telephone": "+55-11-99999-0000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. Paulista, 1000",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01310-100",
+    "addressCountry": "BR"
+  },
+  "openingHours": "Mo-Fr 08:00-18:00"
+}
